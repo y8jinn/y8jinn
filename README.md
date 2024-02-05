@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://y8jinn.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/000000style=뱃지모양&logo=로고&logoColor=black"/></a>
+<img alt="Python" src ="https://img.shields.io/badge/기술명-원하는색상코드.svg?&style=for-the-badge&logo=로고명&logoColor=로고색상"/>
