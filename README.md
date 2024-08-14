@@ -5,6 +5,7 @@
 
 😄 I'm Yoojin Jeong   <br/><br/>
 🏫 Dongguk University Undergraduate (2020 ~) - Majoring in Management Information System & Data Science Software   <br/><br/>
+🧡 National University of Singapore (2024.06 ~ ) MMRL Research Intern <br/><br/>
 🛫 Fontys University of Applied Sciences in Eindhoven, Netherlands (2023.02 ~ 2023.06) - Majoring in ICT & Business [Data Driven International Business Innovation]   <br/><br/>
 🌱 I’m currently learning Machine Learning, Deep Learning, Time-series Analysis, etc...  <br/> 
 
