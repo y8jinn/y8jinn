@@ -7,8 +7,8 @@
 🇰🇷 Dongguk University Undergraduate (2020.03 ~ 2025.02) - Majoring in Management Information System & Data Science Software   <br/><br/>
 🇸🇬 National University of Singapore (2024.06 ~ 2024.09) MMRL Research Intern <br/><br/>
 🇳🇱 Fontys University of Applied Sciences in Eindhoven, Netherlands (2023.02 ~ 2023.06) - Majoring in ICT & Business [Data Driven International Business Innovation]   <br/><br/>
-🇰🇷 POSTECH (Pohang University of Science and Technology) (2025.02 ~ ) Analytics & Information Management Lab <br/><br/>
-🇨🇦 University of Waterloo (2026.01 ~ ) MMRL Research Intern <br/><br/>
+🇰🇷 POSTECH (Pohang University of Science and Technology) (2025.02 ~ ) Industrial Data Science - Analytics & Information Management Lab <br/><br/>
+🇨🇦 University of Waterloo (2026.01 ~ ) Management Science and Engineering <br/><br/>
 🌱 I’m currently researching data science, process mining etc...  <br/> 
 
 <!--
